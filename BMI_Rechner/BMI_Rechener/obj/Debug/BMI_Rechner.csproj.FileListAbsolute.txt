@@ -1,0 +1,14 @@
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\bin\Debug\BMI_Rechener.exe.config
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\bin\Debug\BMI_Rechener.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\bin\Debug\BMI_Rechener.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\obj\Debug\BMI_Rechner.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\obj\Debug\BMI_Rechner.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\obj\Debug\BMI_Rechener.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\BMI_Rechener\BMI_Rechener\obj\Debug\BMI_Rechener.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\bin\Debug\BMI_Rechener.exe.config
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\bin\Debug\BMI_Rechener.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\bin\Debug\BMI_Rechener.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\obj\Debug\BMI_Rechner.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\obj\Debug\BMI_Rechner.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\obj\Debug\BMI_Rechener.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\Eigene Programme\BMI_Rechner\BMI_Rechener\obj\Debug\BMI_Rechener.pdb
